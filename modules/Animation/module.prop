@@ -1,5 +1,5 @@
-id=instant_animation_scale
-name=Instanimation
+id=animation_acaler
+name=Animation Scaler
 version=1.0
 author=AchroZero
-description=Instantly turn off animation window, transition, and animator scale.
+description=Configure animation speed for perfect responsive screen.
