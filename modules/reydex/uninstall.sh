@@ -1,3 +1,7 @@
 #!/system/bin/sh
 
-cmd notification post -S bigtext -t "Test" toast "Test ni pogi"
+settings put system pointer_speed 5 2>/dev/null
+settings put system haptic_feedback_enabled 1 2>/dev/null
+settings put system sound_effects_enabled 1 2>/dev/null
+settings put global wifi_scan_always_enabled 1 2>/dev/null
+settings put global ble_scan_always_enabled 1 2>/dev/null
