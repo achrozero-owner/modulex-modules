@@ -1,1 +1,5 @@
-
+id=low_latency_mode
+name=Low Latency Mode
+version=1.0
+author=ReYdeX
+description=Lightweight system settings adjustments for a responsive Android experience.
